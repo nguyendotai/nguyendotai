@@ -11,8 +11,8 @@ Mình là lập trình viên frontend, tập trung xây dựng giao diện hiệ
 ### 🛒 DTPerfume – Website thương mại điện tử
 - Công nghệ: Next.js, TypeScript, Tailwind CSS, Redux Toolkit
 - Có hệ thống admin riêng để quản lý sản phẩm, danh mục, đơn hàng.
-- 🔗 Frontend: https://github.com/nguyendotai/perfume_shop  
-- 🔗 Admin: https://github.com/nguyendotai/travel-booking-admin  
+- 🔗 Frontend: https://github.com/nguyendotai/dtperfume-site
+- 🔗 Admin: https://github.com/nguyendotai/dtperfume-admin
 - 🔗 Demo: https://dt-perfume-site.vercel.app
 
 ---
