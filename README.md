@@ -13,7 +13,7 @@ Mình là lập trình viên frontend, tập trung xây dựng giao diện hiệ
 - Có hệ thống admin riêng để quản lý sản phẩm, danh mục, đơn hàng.
 - 🔗 Frontend: https://github.com/nguyendotai/perfume_shop  
 - 🔗 Admin: https://github.com/nguyendotai/travel-booking-admin  
-- 🔗 Demo: (dán link nếu có)
+- 🔗 Demo: https://dt-perfume-site.vercel.app
 
 ---
 
@@ -22,7 +22,7 @@ Mình là lập trình viên frontend, tập trung xây dựng giao diện hiệ
 - Có hệ thống admin riêng để quản lý tour và đơn hàng.
 - 🔗 Frontend: https://github.com/nguyendotai/travel-booking-site  
 - 🔗 Admin: https://github.com/nguyendotai/travel-booking-admin  
-- 🔗 Demo: (dán link nếu có)
+- 🔗 Demo: https://travel-booking-site-nu.vercel.app
 
 ---
 
