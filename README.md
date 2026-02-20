@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Tai Nguyen
+# 👋 Tôi là Nguyễn Đỗ Tài
 
 🎯 Frontend Developer Intern | React | Next.js | TypeScript  
 
