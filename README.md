@@ -29,7 +29,7 @@ Mình là lập trình viên frontend, tập trung xây dựng giao diện hiệ
 ### 🌐 Portfolio Website
 - Công nghệ: Next.js, TypeScript, Tailwind CSS, Framer Motion
 - 🔗 GitHub: https://github.com/nguyendotai/portfolio  
-- 🔗 Demo: (dán link nếu có)
+- 🔗 Demo: [(Link demo)](https://portfolio-xi-nine-jwe6t3zoza.vercel.app/)
 
 ---
 
@@ -44,5 +44,5 @@ Mình là lập trình viên frontend, tập trung xây dựng giao diện hiệ
 
 ## 📫 Liên hệ
 - GitHub: https://github.com/nguyendotai  
-- Portfolio: (link nếu có)  
-- LinkedIn: (nếu có)
+- Email: nguyendotai11@gmail.com  
+- Phone: 0332466408
