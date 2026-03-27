@@ -1,6 +1,6 @@
 # 👋 Tôi là Nguyễn Đỗ Tài
 
-🎯 Frontend Developer Intern | React | Next.js | TypeScript  
+🎯 Frontend Developer | React | Next.js | TypeScript  
 
 Mình là lập trình viên frontend, tập trung xây dựng giao diện hiện đại, responsive và trải nghiệm người dùng tốt. Mình đã thực hiện các dự án thực tế như website thương mại điện tử, hệ thống admin và website portfolio.
 
