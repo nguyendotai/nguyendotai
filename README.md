@@ -8,28 +8,13 @@ Mình là lập trình viên frontend, tập trung xây dựng giao diện hiệ
 
 ## 🚀 Dự án nổi bật
 
-### 🛒 DTPerfume – Website thương mại điện tử
-- Công nghệ: Next.js, TypeScript, Tailwind CSS, Redux Toolkit
-- Có hệ thống admin riêng để quản lý sản phẩm, danh mục, đơn hàng.
-- 🔗 Frontend: https://github.com/nguyendotai/dtperfume-site
-- 🔗 Admin: https://github.com/nguyendotai/dtperfume-admin
-- 🔗 Demo: https://dt-perfume-site.vercel.app
-
----
-
-### ✈️ Travel Booking Tour – Website đặt tour
-- Công nghệ: React.js / Next.js, TypeScript, RESTful API
-- Có hệ thống admin riêng để quản lý tour và đơn hàng.
-- 🔗 Frontend: https://github.com/nguyendotai/travel-booking-site  
-- 🔗 Admin: https://github.com/nguyendotai/travel-booking-admin  
-- 🔗 Demo: https://travel-booking-site-nu.vercel.app
-
----
-
-### 🌐 Portfolio Website
-- Công nghệ: Next.js, TypeScript, Tailwind CSS, Framer Motion
-- 🔗 GitHub: https://github.com/nguyendotai/portfolio  
-- 🔗 Demo: [(Link demo)](https://portfolio-xi-nine-jwe6t3zoza.vercel.app/)
+### 🧳 Tripora – Travel Marketplace (Full-stack)
+- Công nghệ: NestJS, Next.js, TypeScript, MySQL (Prisma), Stripe, Redis, Socket.IO
+- Sàn giao dịch du lịch đa dịch vụ (khách sạn/tour/trải nghiệm/đặt xe/chuyến bay) — thanh toán Stripe thật, hệ thống Provider multi-tenant với RBAC 4 vai trò, chat/thông báo realtime, xây theo 9 giai đoạn phát triển.
+- 🔗 Backend: https://github.com/nguyendotai/Tripora-backend
+- 🔗 Frontend: https://github.com/nguyendotai/Tripora-site
+- 🔗 Admin: https://github.com/nguyendotai/Tripora-admin
+- 🔗 Demo: https://tripora-site.vercel.app · Admin: https://tripora-admin.vercel.app
 
 ---
 
